@@ -23,13 +23,13 @@ To get started with this Moondev repository, follow these steps:
 
 1. **Clone the Repository:** 
    ```
-   git clone https://github.com/yourusername/moondev
+   git clone https://github.com/125Akash/Moondev.git
    ```
 
 2. **Navigate to the Project Directory:**
    ```
    cd moondev
-   run npm install
+   npm install
    npm run dev
    ```
 
