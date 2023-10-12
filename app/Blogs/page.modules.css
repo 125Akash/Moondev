@@ -1,0 +1,9 @@
+body{
+ 
+  background: linear-gradient(to bottom, black 35%, rgb(37, 2, 136), rgb(31, 77, 228), white);
+  height: 100vh; /* Ensure the gradient covers the entire viewport height */
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+  font-family: Arial, sans-serif; /* Set a default font-family if needed */
+  color: hsl(0, 0%, 100%); /* Set text color to white for better visibility */
+}
